@@ -4,4 +4,5 @@ import tailwindcss from '@tailwindcss/vite'; // ده اللي بيفعّل Tailw
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  base: "/portfolio/" 
 });
