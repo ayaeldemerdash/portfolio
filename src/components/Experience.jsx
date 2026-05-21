@@ -1,5 +1,10 @@
 export default function Experience() {
   const experience = [
+     {
+      title: "UI/UX Training",
+      company: "Creativa",
+      year: "2026",
+    },
     {
       title: "Front-End Development with React",
       company: "DEPI",
