@@ -13,7 +13,7 @@ function App() {
     <div className="min-h-screen flex flex-col bg-white text-black">
       <Header />
 
-      <section className="relative min-h-screen flex items-center justify-center pt-20 pb-20 px-4 sm:px-6 lg:px-8 bg-[#ec4899]/5">
+      <section  id="home" className="relative min-h-screen flex items-center justify-center pt-20 pb-20 px-4 sm:px-6 lg:px-8 bg-[#ec4899]/5">
         <div className="absolute inset-0 bg-[linear-gradient(to_bottom_right,white,#ec4899/20,#f472b6/20)]"></div>
         <div className="max-w-6xl mx-auto text-center relative z-10">
           <div className="mb-8">
