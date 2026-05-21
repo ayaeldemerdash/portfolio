@@ -21,8 +21,10 @@ export default function Skills() {
   ];
 
   return (
-    <section className="py-20 px-4 sm:px-6 lg:px-8 bg-[#ec4899]/5 border-b border-gray-200">
-      <div className="max-w-6xl mx-auto">
+    <section
+      id="skills"
+      className="py-20 px-4 sm:px-6 lg:px-8 bg-[#ec4899]/5 border-b border-gray-200"
+    >      <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl font-bold mb-12 text-center text-black">
           My <span className="text-[#ec4899]">Skills</span>
         </h2>
